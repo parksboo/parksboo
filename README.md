@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+I'm Sungboo Park, a passionate developer looking for opportunities to contribute to open source communities.
+I’m just beginning my journey in data engineering and learning the background logics in Torch. I’m eager to improve my skills and always excited to collaborate on innovative projects.
+please reach out to me I can help you. 
+
+
 <!--
 **parksboo/parksboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
